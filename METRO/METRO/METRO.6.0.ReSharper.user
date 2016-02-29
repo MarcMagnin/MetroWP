@@ -1,0 +1,847 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="358AB91B-89ED-43E0-832A-5D2AB9EEF60A/d:View/f:Credits.xaml.cs" caret="261" fromTop="11" />
+      <File id="358AB91B-89ED-43E0-832A-5D2AB9EEF60A/f:MainPage.xaml.cs" caret="6919" fromTop="25" />
+      <File id="358AB91B-89ED-43E0-832A-5D2AB9EEF60A/d:Properties/f:AssemblyInfo.cs" caret="691" fromTop="15" />
+      <File id="358AB91B-89ED-43E0-832A-5D2AB9EEF60A/d:Assets/d:KML/f:Metro_rer_Paris_v3_0.kml" caret="148876" fromTop="27" />
+      <File id="358AB91B-89ED-43E0-832A-5D2AB9EEF60A/d:Properties/f:WMAppManifest.xml" caret="905" fromTop="21" />
+      <File id="358AB91B-89ED-43E0-832A-5D2AB9EEF60A/d:Model/f:MapItem.cs" caret="783" fromTop="0" />
+      <File id="358AB91B-89ED-43E0-832A-5D2AB9EEF60A/d:ViewModel/f:MainViewModel.cs" caret="10595" fromTop="29" />
+      <File id="358AB91B-89ED-43E0-832A-5D2AB9EEF60A/f:App.xaml.cs" caret="1006" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="358AB91B-89ED-43E0-832A-5D2AB9EEF60A/d:View/f:Credits.xaml.cs" caret="219" fromTop="23" />
+      <File id="358AB91B-89ED-43E0-832A-5D2AB9EEF60A/d:View/f:Credits.xaml.cs" caret="84" fromTop="5" />
+      <File id="358AB91B-89ED-43E0-832A-5D2AB9EEF60A/d:View/f:Credits.xaml.cs" caret="22" fromTop="0" />
+      <File id="358AB91B-89ED-43E0-832A-5D2AB9EEF60A/f:MainPage.xaml.cs" caret="7094" fromTop="25" />
+      <File id="358AB91B-89ED-43E0-832A-5D2AB9EEF60A/f:MainPage.xaml.cs" caret="6919" fromTop="25" />
+      <File id="358AB91B-89ED-43E0-832A-5D2AB9EEF60A/d:View/f:Credits.xaml.cs" caret="805" fromTop="28" />
+      <File id="358AB91B-89ED-43E0-832A-5D2AB9EEF60A/d:View/f:Credits.xaml.cs" caret="814" fromTop="21" />
+      <File id="358AB91B-89ED-43E0-832A-5D2AB9EEF60A/d:View/f:Credits.xaml.cs" caret="489" fromTop="17" />
+      <File id="358AB91B-89ED-43E0-832A-5D2AB9EEF60A/d:View/f:Credits.xaml.cs" caret="741" fromTop="24" />
+      <File id="358AB91B-89ED-43E0-832A-5D2AB9EEF60A/d:Properties/f:WMAppManifest.xml" caret="769" fromTop="11" />
+      <File id="358AB91B-89ED-43E0-832A-5D2AB9EEF60A/d:Properties/f:WMAppManifest.xml" caret="442" fromTop="5" />
+      <File id="358AB91B-89ED-43E0-832A-5D2AB9EEF60A/d:Properties/f:AssemblyInfo.cs" caret="88" fromTop="1" />
+      <File id="358AB91B-89ED-43E0-832A-5D2AB9EEF60A/d:Properties/f:AssemblyInfo.cs" caret="691" fromTop="15" />
+      <File id="358AB91B-89ED-43E0-832A-5D2AB9EEF60A/d:Assets/d:KML/f:Metro_rer_Paris_v3_0.kml" caret="149533" fromTop="18" />
+      <File id="358AB91B-89ED-43E0-832A-5D2AB9EEF60A/d:Assets/d:KML/f:Metro_rer_Paris_v3_0.kml" caret="152148" fromTop="26" />
+      <File id="358AB91B-89ED-43E0-832A-5D2AB9EEF60A/d:Assets/d:KML/f:Metro_rer_Paris_v3_0.kml" caret="150867" fromTop="51" />
+      <File id="358AB91B-89ED-43E0-832A-5D2AB9EEF60A/d:Assets/d:KML/f:Metro_rer_Paris_v3_0.kml" caret="146883" fromTop="14" />
+      <File id="358AB91B-89ED-43E0-832A-5D2AB9EEF60A/d:Assets/d:KML/f:Metro_rer_Paris_v3_0.kml" caret="148876" fromTop="51" />
+      <File id="358AB91B-89ED-43E0-832A-5D2AB9EEF60A/d:ViewModel/f:MainViewModel.cs" caret="10321" fromTop="21" />
+      <File id="358AB91B-89ED-43E0-832A-5D2AB9EEF60A/f:App.xaml.cs" caret="1575" fromTop="26" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="StationsLayer" priority="191" />
+      <Item value="p" priority="127" />
+      <Item value="as" priority="639" />
+      <Item value="Pushpin`0" priority="195" />
+      <Item value="pushpin" priority="95" />
+      <Item value="pin" priority="794" />
+      <Item value="Opacity" priority="32" />
+      <Item value="if" priority="2687" />
+      <Item value="Collapsed" priority="67" />
+      <Item value="else" priority="735" />
+      <Item value="_map" priority="159" />
+      <Item value="return" priority="1247" />
+      <Item value="o" priority="255" />
+      <Item value="map" priority="95" />
+      <Item value="Observable`0" priority="159" />
+      <Item value="e" priority="543" />
+      <Item value="Scheduler`0" priority="127" />
+      <Item value="Deployment`0" priority="351" />
+      <Item value="var" priority="1695" />
+      <Item value="false" priority="959" />
+      <Item value="flag" priority="95" />
+      <Item value="true" priority="800" />
+      <Item value="IEvent" priority="30" />
+      <Item value="MapEventArgs`0" priority="31" />
+      <Item value="Application`0" priority="30" />
+      <Item value="ApplicationBarIconButton`0" priority="62" />
+      <Item value="private" priority="671" />
+      <Item value="GPSViewModel`0" priority="31" />
+      <Item value="public" priority="671" />
+      <Item value="GetColorFromString`0" priority="31" />
+      <Item value="_gPSViewModel" priority="64" />
+      <Item value="GPSViewModel" priority="60" />
+      <Item value="ns" priority="31" />
+      <Item value="new" priority="1442" />
+      <Item value="ctor" priority="191" />
+      <Item value="MainViewModel`0" priority="289" />
+      <Item value="TemplatedVisualTreeExtensions`0" priority="31" />
+      <Item value="_mainModel" priority="735" />
+      <Item value="Visibility`0" priority="159" />
+      <Item value="UserLocationVisibility" priority="31" />
+      <Item value="watcher" priority="192" />
+      <Item value="GeoCoordinateWatcher" priority="57" />
+      <Item value="GeoPositionAccuracy`0" priority="95" />
+      <Item value="MovementThreshold" priority="31" />
+      <Item value="Watcher" priority="63" />
+      <Item value="button" priority="63" />
+      <Item value="ThreadPool`0" priority="63" />
+      <Item value="this" priority="287" />
+      <Item value="Thread`0" priority="255" />
+      <Item value="int" priority="575" />
+      <Item value="freePin" priority="31" />
+      <Item value="i" priority="287" />
+      <Item value="Action`0" priority="32" />
+      <Item value="MetroStation`0" priority="357" />
+      <Item value="station" priority="960" />
+      <Item value="BackgroundWorker`0" priority="63" />
+      <Item value="BackgroundWorker" priority="57" />
+      <Item value="WorkerReportsProgress" priority="26" />
+      <Item value="WorkerSupportsCancellation" priority="26" />
+      <Item value="_backgroundPinAdder" priority="64" />
+      <Item value="parentThread" priority="31" />
+      <Item value="ss" priority="32" />
+      <Item value="ListBox`0" priority="159" />
+      <Item value="foreach" priority="415" />
+      <Item value="override" priority="383" />
+      <Item value="listBoxItem" priority="127" />
+      <Item value="VisualStateManager`0" priority="351" />
+      <Item value="Visible" priority="84" />
+      <Item value="GetControlsDecendant`1" priority="31" />
+      <Item value="listBox" priority="31" />
+      <Item value="popup" priority="31" />
+      <Item value="null" priority="833" />
+      <Item value="DataContext" priority="65" />
+      <Item value="#define" priority="31" />
+      <Item value="_metroAutoComplete" priority="186" />
+      <Item value="value" priority="63" />
+      <Item value="_itemsView" priority="31" />
+      <Item value="MapItem`0" priority="96" />
+      <Item value="for" priority="63" />
+      <Item value="in" priority="63" />
+      <Item value="PinPool" priority="127" />
+      <Item value="curPin" priority="95" />
+      <Item value="CurrentVisualState" priority="127" />
+      <Item value="void" priority="191" />
+      <Item value="SelectStation`0" priority="223" />
+      <Item value="worker" priority="31" />
+      <Item value="const" priority="31" />
+      <Item value="_stationsLayer" priority="31" />
+      <Item value="stationToAdd" priority="64" />
+      <Item value="ee" priority="63" />
+      <Item value="class" priority="63" />
+      <Item value="IEnumerable" priority="31" />
+      <Item value="BackgrounfWorkerArgument" priority="29" />
+      <Item value="Items" priority="32" />
+      <Item value="Control`0" priority="32" />
+      <Item value="ProjectionUpdateLevel`0" priority="31" />
+      <Item value="stroke" priority="223" />
+      <Item value="RaisePropertyChanged`1" priority="63" />
+      <Item value="LineStackingStrategy`0" priority="90" />
+      <Item value="MapPolyline`0" priority="31" />
+      <Item value="List&lt;MapPolyline&gt;" priority="28" />
+      <Item value="readonly" priority="63" />
+      <Item value="polygon" priority="31" />
+      <Item value="_metroLines" priority="26" />
+      <Item value="mapPolyline" priority="31" />
+      <Item value="MetroLineStroke" priority="31" />
+      <Item value="LinkedList&lt;TileSource&gt;" priority="28" />
+      <Item value="TileSource`0" priority="62" />
+      <Item value="TileSource" priority="91" />
+      <Item value="GoogleMapsAerialTileSource`0" priority="31" />
+      <Item value="FakeBingMapTileSource" priority="59" />
+      <Item value="UriFormat`0" priority="63" />
+      <Item value="currentTileNode" priority="31" />
+      <Item value="is" priority="191" />
+      <Item value="FakeBingMapTileSource`0" priority="31" />
+      <Item value="mainViewModel" priority="96" />
+      <Item value="RoadMode" priority="28" />
+      <Item value="MercatorMode" priority="29" />
+      <Item value="MercatorMode`0" priority="31" />
+      <Item value="UriKind`0" priority="58" />
+      <Item value="prop" priority="63" />
+      <Item value="TileSourceBox" priority="28" />
+      <Item value="Name" priority="127" />
+      <Item value="_currentTileNode" priority="31" />
+      <Item value="string" priority="256" />
+      <Item value="List&lt;string&gt;" priority="57" />
+      <Item value="metroStation" priority="31" />
+      <Item value="c" priority="127" />
+      <Item value="metroNumber" priority="63" />
+      <Item value="s" priority="286" />
+      <Item value="alreadyExistStation" priority="31" />
+      <Item value="MetroLignes" priority="63" />
+      <Item value="using" priority="30" />
+      <Item value="System" priority="30" />
+      <Item value="Linq" priority="26" />
+      <Item value="current" priority="31" />
+      <Item value="next" priority="31" />
+      <Item value="Edge`0" priority="96" />
+      <Item value="List&lt;Edge&gt;" priority="57" />
+      <Item value="static" priority="253" />
+      <Item value="Edge" priority="28" />
+      <Item value="Station1" priority="95" />
+      <Item value="Station2" priority="32" />
+      <Item value="previousStation" priority="96" />
+      <Item value="Cost" priority="97" />
+      <Item value="TESTT" priority="31" />
+      <Item value="break" priority="95" />
+      <Item value="GeoCoordinate`0" priority="191" />
+      <Item value="Distance" priority="64" />
+      <Item value="Station`0" priority="550" />
+      <Item value="List" priority="184" />
+      <Item value="Edges" priority="31" />
+      <Item value="stationCounter" priority="64" />
+      <Item value="distance" priority="31" />
+      <Item value="stations" priority="159" />
+      <Item value="v" priority="31" />
+      <Item value="Q" priority="31" />
+      <Item value="_stations" priority="95" />
+      <Item value="ToString`0" priority="26" />
+      <Item value="Stations" priority="63" />
+      <Item value="stationsLabelVisibility" priority="31" />
+      <Item value="Margin" priority="32" />
+      <Item value="Thickness" priority="28" />
+      <Item value="PositionOrigin" priority="32" />
+      <Item value="Map" priority="95" />
+      <Item value="mapItem" priority="31" />
+      <Item value="stationsLabelOpacity" priority="31" />
+      <Item value="StationsLabelOpacity" priority="31" />
+      <Item value="Math`0" priority="95" />
+      <Item value="_tileLayerOpacity" priority="31" />
+      <Item value="StationDepart" priority="26" />
+      <Item value="event" priority="31" />
+      <Item value="VisualStateChangedEventArgs`0" priority="32" />
+      <Item value="EventArgs`0" priority="31" />
+      <Item value="VisualStateChanged" priority="31" />
+      <Item value="VisualStates`0" priority="31" />
+      <Item value="EventArgs" priority="28" />
+      <Item value="ContentChangedEventArgs`0" priority="31" />
+      <Item value="TextChangedEventArgs`0" priority="58" />
+      <Item value="TextChangedEventHandler" priority="26" />
+      <Item value="VisualStateEventArgs" priority="28" />
+      <Item value="args" priority="223" />
+      <Item value="MasterVisualState" priority="31" />
+      <Item value="bool" priority="159" />
+      <Item value="CancelEventArgs`0" priority="31" />
+      <Item value="TransitionElement`0" priority="31" />
+      <Item value="App`0" priority="223" />
+      <Item value="Equals`0" priority="63" />
+      <Item value="Back" priority="16" />
+      <Item value="finish" priority="31" />
+      <Item value="None" priority="16" />
+      <Item value="Station" priority="28" />
+      <Item value="Location" priority="65" />
+      <Item value="ItemControl" priority="31" />
+      <Item value="OnItemControlSetterChanged`0" priority="22" />
+      <Item value="NextStation" priority="29" />
+      <Item value="nextstation" priority="91" />
+      <Item value="Length" priority="80" />
+      <Item value="lastStation" priority="31" />
+      <Item value="StationsItinerary" priority="63" />
+      <Item value="EndStation" priority="28" />
+      <Item value="Location`0" priority="31" />
+      <Item value="locations" priority="31" />
+      <Item value="stationsItinerary" priority="31" />
+      <Item value="SolidColorBrush`0" priority="63" />
+      <Item value="Colors`0" priority="31" />
+      <Item value="SolidColorBrush" priority="28" />
+      <Item value="StationsLabelColor" priority="31" />
+      <Item value="_blackColor" priority="31" />
+      <Item value="_whiteColor" priority="31" />
+      <Item value="SelectedStation" priority="159" />
+      <Item value="Id" priority="95" />
+      <Item value="fromItem" priority="287" />
+      <Item value="continue" priority="31" />
+      <Item value="object" priority="31" />
+      <Item value="IdleDetectionMode`0" priority="31" />
+      <Item value="dijk" priority="63" />
+      <Item value="Count`1" priority="26" />
+      <Item value="goodDijk" priority="31" />
+      <Item value="ShortestPath`0" priority="63" />
+      <Item value="line" priority="63" />
+      <Item value="MetroLine`0" priority="32" />
+      <Item value="CurrentLine" priority="64" />
+      <Item value="DistincStations" priority="31" />
+      <Item value="_toAutoComplete" priority="63" />
+      <Item value="AutoResetEvent`0" priority="31" />
+      <Item value="ItineraryMode" priority="31" />
+      <Item value="ItineraryLayer" priority="31" />
+      <Item value="ItineraryViewModel" priority="31" />
+      <Item value="GestureEventArgs`0" priority="30" />
+      <Item value="Credentials" priority="51" />
+      <Item value="POILookup" priority="63" />
+      <Item value="behavior" priority="31" />
+      <Item value="toItem" priority="63" />
+      <Item value="toText" priority="63" />
+      <Item value="internal" priority="31" />
+      <Item value="MetroAutoComplete" priority="31" />
+      <Item value="BusyMessage" priority="28" />
+      <Item value="_isBusy" priority="31" />
+      <Item value="GeocodeService" priority="31" />
+      <Item value="TimeSpan`0" priority="95" />
+      <Item value="Subject" priority="28" />
+      <Item value="accuracy" priority="31" />
+      <Item value="DateTime`0" priority="31" />
+      <Item value="locationTimeout" priority="31" />
+      <Item value="subject" priority="159" />
+      <Item value="newLocation" priority="31" />
+      <Item value="started" priority="31" />
+      <Item value="Exception" priority="28" />
+      <Item value="LocationImpl`0" priority="26" />
+      <Item value="obs" priority="32" />
+      <Item value="disposable" priority="32" />
+      <Item value="Action" priority="28" />
+      <Item value="GeopWrapper" priority="28" />
+      <Item value="result" priority="255" />
+      <Item value="FromItem" priority="159" />
+      <Item value="minDist" priority="63" />
+      <Item value="SearchItinerary`0" priority="31" />
+      <Item value="ToItem" priority="95" />
+      <Item value="fromText" priority="63" />
+      <Item value="ToText" priority="31" />
+      <Item value="MainMap" priority="122" />
+      <Item value="Canvas`0" priority="31" />
+      <Item value="ViewModel" priority="31" />
+      <Item value="BitmapCache`0" priority="63" />
+      <Item value="MetroLinesLayer" priority="31" />
+      <Item value="BitmapImage" priority="57" />
+      <Item value="FromLocation" priority="95" />
+      <Item value="ToLocation" priority="63" />
+      <Item value="_previsousToAutoCompleteCompleteSearch" priority="31" />
+      <Item value="err" priority="31" />
+      <Item value="CivicAddressResolver`0" priority="63" />
+      <Item value="Array`0" priority="29" />
+      <Item value="evt" priority="63" />
+      <Item value="MessageBox`0" priority="31" />
+      <Item value="finally" priority="31" />
+      <Item value="Debug`0" priority="31" />
+      <Item value="ThreadPoolScheduler`0" priority="31" />
+      <Item value="Dictionary" priority="31" />
+      <Item value="BitmapImage`0" priority="31" />
+      <Item value="Dictionary&lt;string,BitmapImage&gt;" priority="28" />
+      <Item value="Uri" priority="28" />
+      <Item value="t" priority="63" />
+      <Item value="test" priority="31" />
+      <Item value="NextStation`0" priority="63" />
+      <Item value="OpenStreetMapTileSource`0" priority="31" />
+      <Item value="StartStation`0" priority="31" />
+      <Item value="IOrderedEnumerable" priority="31" />
+      <Item value="startIndex" priority="31" />
+      <Item value="GeoCodeService" priority="31" />
+      <Item value="IObservable" priority="31" />
+      <Item value="IDisposable`0" priority="31" />
+      <Item value="GeoWrapper" priority="63" />
+      <Item value="UnselectStations`0" priority="31" />
+      <Item value="try" priority="31" />
+      <Item value="catch" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Phone.Controls.Maps.MapLayer">
+      <Item value="Children" priority="134" />
+      <Item value="Visibility" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.UIElementCollection">
+      <Item value="Where`1" priority="26" />
+      <Item value="FirstOrDefault`1" priority="27" />
+      <Item value="ToList`1" priority="26" />
+      <Item value="Add`0" priority="55" />
+      <Item value="Remove`0" priority="22" />
+      <Item value="Count" priority="26" />
+      <Item value="Cast`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Phone.Controls.Maps.Pushpin">
+      <Item value="Opacity" priority="53" />
+      <Item value="MouseLeftButtonDown" priority="26" />
+      <Item value="DataContext" priority="188" />
+      <Item value="Loaded" priority="53" />
+      <Item value="ApplyTemplate`0" priority="53" />
+      <Item value="ManipulationStarted" priority="26" />
+      <Item value="ManipulationCompleted" priority="26" />
+      <Item value="Location" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Visibility">
+      <Item value="Visible" priority="221" />
+      <Item value="Collapsed" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Phone.Controls.Maps.Map">
+      <Item value="ViewChangeStart" priority="53" />
+      <Item value="TargetZoomLevel" priority="53" />
+      <Item value="Center" priority="53" />
+      <Item value="ZoomLevel" priority="134" />
+      <Item value="Mode" priority="26" />
+      <Item value="TargetViewChanged" priority="53" />
+      <Item value="Focus`0" priority="53" />
+      <Item value="AnimationLevel" priority="26" />
+      <Item value="SetView`0" priority="26" />
+      <Item value="ViewChangeEnd" priority="26" />
+      <Item value="LoadingError" priority="26" />
+      <Item value="Children" priority="26" />
+      <Item value="ViewChangeOnFrame" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Phone.Reactive.Observable">
+      <Item value="FromEvent`1" priority="26" />
+      <Item value="FromEvent`2" priority="26" />
+      <Item value="Create`1" priority="26" />
+      <Item value="Merge`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IObservable`1">
+      <Item value="ObserveOn`1" priority="54" />
+      <Item value="Throttle`1" priority="27" />
+      <Item value="SubscribeOnDispatcher`1" priority="103" />
+      <Item value="Where`1" priority="26" />
+      <Item value="Finally`1" priority="26" />
+      <Item value="DistinctUntilChanged`2" priority="26" />
+      <Item value="Subscribe`0" priority="108" />
+      <Item value="ObserveOnDispatcher`1" priority="27" />
+      <Item value="ForkJoin`3" priority="26" />
+      <Item value="Zip`3" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Phone.Reactive.Scheduler">
+      <Item value="ThreadPool" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.TimeSpan">
+      <Item value="FromHours`0" priority="26" />
+      <Item value="FromMilliseconds`0" priority="22" />
+      <Item value="FromSeconds`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Deployment">
+      <Item value="Current" priority="296" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Deployment">
+      <Item value="Dispatcher" priority="296" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IDisposable">
+      <Item value="Dispose`0" priority="103" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Phone.Controls.AutoCompleteBox">
+      <Item value="Focus`0" priority="54" />
+      <Item value="Populating" priority="26" />
+      <Item value="ItemsSource" priority="26" />
+      <Item value="PopulateComplete`0" priority="26" />
+      <Item value="KeyUp" priority="26" />
+      <Item value="Text" priority="53" />
+      <Item value="GotFocus" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:METRO.ViewModel.GPSViewModel">
+      <Item value="Cleanup`0" priority="26" />
+      <Item value="mainModel" priority="26" />
+      <Item value="UserLocation" priority="26" />
+      <Item value="UserLocationVisibility" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Device.Location.GeoPositionAccuracy">
+      <Item value="Default" priority="26" />
+      <Item value="High" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Device.Location.GeoCoordinateWatcher">
+      <Item value="StatusChanged" priority="26" />
+      <Item value="PositionChanged" priority="26" />
+      <Item value="TryStart`0" priority="26" />
+      <Item value="Stop`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:METRO.ViewModel.MainViewModel">
+      <Item value="Map" priority="108" />
+      <Item value="GPSViewModel" priority="53" />
+      <Item value="MetroLineStroke" priority="53" />
+      <Item value="MetroLinesControl" priority="22" />
+      <Item value="CurrentVisualState" priority="134" />
+      <Item value="Items" priority="26" />
+      <Item value="AddressViewModel" priority="81" />
+      <Item value="SelectedStation" priority="81" />
+      <Item value="ItineraryViewModel" priority="80" />
+      <Item value="UnselectStations`0" priority="107" />
+      <Item value="IsBusy" priority="80" />
+      <Item value="TileLayerOpacity" priority="26" />
+      <Item value="LinesImageSource" priority="26" />
+      <Item value="SetStationLabelOpacity`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Phone.Shell.ApplicationBarIconButton">
+      <Item value="IsEnabled" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Expression.Interactivity.Core.ExtendedVisualStateManager">
+      <Item value="GoToElementState`0" priority="26" />
+      <Item value="GoToState`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.ThreadPool">
+      <Item value="QueueUserWorkItem`0" priority="126" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="134" />
+      <Item value="CurrentThread" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Threading.Dispatcher">
+      <Item value="BeginInvoke`0" priority="242" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="Abort`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToArray`1" priority="26" />
+      <Item value="Where`1" priority="26" />
+      <Item value="ToList`1" priority="242" />
+      <Item value="Take`1" priority="26" />
+      <Item value="FirstOrDefault`1" priority="80" />
+      <Item value="Select`2" priority="53" />
+      <Item value="Distinct`1" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ComponentModel.BackgroundWorker">
+      <Item value="CancelAsync`0" priority="80" />
+      <Item value="DoWork" priority="26" />
+      <Item value="CancellationPending" priority="53" />
+      <Item value="RunWorkerAsync`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:METRO.Controls.FluidListBox">
+      <Item value="ItemContainerGenerator" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ItemContainerGenerator">
+      <Item value="ItemsChanged" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.VisualStateManager">
+      <Item value="GoToState`0" priority="270" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ListBoxItem">
+      <Item value="Visibility" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Primitives.Popup">
+      <Item value="Visibility" priority="26" />
+      <Item value="IsOpen" priority="26" />
+      <Item value="Child" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:METRO.Controls.FluidAutoCompleteBox">
+      <Item value="IsDropDownOpen" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.UIElement">
+      <Item value="CacheMode" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Phone.Controls.PopulatingEventArgs">
+      <Item value="Cancel" priority="26" />
+      <Item value="Parameter" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Data.CollectionViewSource">
+      <Item value="View" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ComponentModel.ICollectionView">
+      <Item value="Cast`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:METRO.Model.MapItem">
+      <Item value="NormalizedName" priority="26" />
+      <Item value="Name" priority="81" />
+      <Item value="Selected" priority="26" />
+      <Item value="UnSelect`0" priority="26" />
+      <Item value="Id" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Contains`0" priority="137" />
+      <Item value="Normalize`0" priority="26" />
+      <Item value="RemoveAccents`0" priority="27" />
+      <Item value="GetHashCode`0" priority="26" />
+      <Item value="Remove`0" priority="26" />
+      <Item value="Replace`0" priority="27" />
+      <Item value="Trim`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Where`1" priority="185" />
+      <Item value="FirstOrDefault`1" priority="81" />
+      <Item value="Add`0" priority="246" />
+      <Item value="ToString`0" priority="26" />
+      <Item value="Aggregate`1" priority="26" />
+      <Item value="Count" priority="80" />
+      <Item value="Clear`0" priority="27" />
+      <Item value="Contains`0" priority="107" />
+      <Item value="Distinct`1" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:METRO.Model.MetroStation">
+      <Item value="ItemControl" priority="53" />
+      <Item value="Select`0" priority="26" />
+      <Item value="Added" priority="81" />
+      <Item value="MetroLignes" priority="53" />
+      <Item value="Name" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ComponentModel.DoWorkEventArgs">
+      <Item value="Argument" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:METRO.ViewModel.MainViewModel+BackgrounfWorkerArgument">
+      <Item value="Items" priority="26" />
+      <Item value="Worker" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Input.ManipulationCompletedEventArgs">
+      <Item value="TotalManipulation" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Input.ManipulationDelta">
+      <Item value="Translation" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Point">
+      <Item value="X" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Phone.Controls.Maps.MapPolyline">
+      <Item value="StrokeThickness" priority="26" />
+      <Item value="Opacity" priority="26" />
+      <Item value="DataContext" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.LinkedListNode`1">
+      <Item value="Next" priority="53" />
+      <Item value="Value" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.LinkedList`1">
+      <Item value="AddBefore`0" priority="26" />
+      <Item value="FindLast`0" priority="26" />
+      <Item value="AddLast`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.UriKind">
+      <Item value="Absolute" priority="26" />
+      <Item value="Relative" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:METRO.ViewModel.TileSourceViewModel+TileSourceBox">
+      <Item value="TileSource" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:METRO.ViewModel.TileSourceViewModel">
+      <Item value="mainViewModel" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ObjectModel.ObservableCollection`1">
+      <Item value="Where`1" priority="80" />
+      <Item value="Clear`0" priority="81" />
+      <Item value="Add`0" priority="104" />
+      <Item value="Remove`0" priority="55" />
+      <Item value="Count" priority="81" />
+      <Item value="LastOrDefault`1" priority="27" />
+      <Item value="Select`2" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@METRO.Model.ShortestPath">
+      <Item value="Edges" priority="26" />
+      <Item value="GetMinimumPath`0" priority="26" />
+      <Item value="G" priority="22" />
+      <Item value="Stations" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:METRO.Model.Station">
+      <Item value="MetroLignes" priority="26" />
+      <Item value="Location" priority="245" />
+      <Item value="Id" priority="245" />
+      <Item value="Distance" priority="26" />
+      <Item value="Name" priority="624" />
+      <Item value="Added" priority="26" />
+      <Item value="LabelVisibility" priority="22" />
+      <Item value="CurrentLine" priority="190" />
+      <Item value="PreviousStation" priority="53" />
+      <Item value="BottomStation" priority="27" />
+      <Item value="TopStation" priority="55" />
+      <Item value="Select`0" priority="53" />
+      <Item value="Selected" priority="161" />
+      <Item value="UnSelect`0" priority="53" />
+      <Item value="ToString`0" priority="80" />
+      <Item value="NormalizedName" priority="188" />
+      <Item value="ItemControlChanged" priority="26" />
+      <Item value="ItemControl" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Device.Location.GeoCoordinate">
+      <Item value="GetDistanceTo`0" priority="53" />
+      <Item value="IsUnknown" priority="26" />
+      <Item value="Latitude" priority="80" />
+      <Item value="Longitude" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:METRO.Model.Edge">
+      <Item value="Station1" priority="54" />
+      <Item value="Station2" priority="27" />
+      <Item value="Cost" priority="27" />
+      <Item value="Id" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Queue`1">
+      <Item value="Enqueue`0" priority="26" />
+      <Item value="Peek`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Stack`1">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Append`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Phone.Controls.Maps.PositionOrigin">
+      <Item value="TopLeft" priority="23" />
+      <Item value="BottomRight" priority="28" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Abs`0" priority="26" />
+      <Item value="Max`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@METRO.Helpers.VisualStates">
+      <Item value="VisualStateChanged" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Controls.TextChangedEventArgs">
+      <Item value="Empty" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:METRO.Helpers.VisualStates+VisualStateEventArgs">
+      <Item value="EventArgs" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.DependencyPropertyChangedEventArgs">
+      <Item value="OldValue" priority="26" />
+      <Item value="NewValue" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:METRO.MainPage">
+      <Item value="BackKeyPress" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ComponentModel.CancelEventArgs">
+      <Item value="Cancel" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@METRO.App">
+      <Item value="Current" priority="80" />
+      <Item value="BusyMessage" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Navigation.NavigatingCancelEventArgs">
+      <Item value="Cancel" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Application">
+      <Item value="Startup" priority="26" />
+      <Item value="RootVisual" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Input.KeyEventArgs">
+      <Item value="Key" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Input.Key">
+      <Item value="Escape" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Phone.Controls.Maps.AnimationLevel">
+      <Item value="Full" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:METRO.Model.StartStation">
+      <Item value="Direction" priority="27" />
+      <Item value="Name" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Control">
+      <Item value="ApplyTemplate`0" priority="26" />
+      <Item value="SetValue`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.Colors">
+      <Item value="Black" priority="26" />
+      <Item value="White" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="MaxValue" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:METRO.Helpers.Dijkstra">
+      <Item value="path" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:METRO.Model.MetroLine">
+      <Item value="Name" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:METRO.ViewModel.ItineraryViewModel">
+      <Item value="ItineraryMode" priority="80" />
+      <Item value="Reset`0" priority="26" />
+      <Item value="Cleanup`0" priority="26" />
+      <Item value="GeoWrapper" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Input.GestureEventArgs">
+      <Item value="GetPosition`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:METRO.ViewModel.AddressViewModel">
+      <Item value="POILookup" priority="80" />
+      <Item value="POILookUpSelected" priority="53" />
+      <Item value="GeoCodeService" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:METRO.Controls.BusyMessage">
+      <Item value="IsOpen" priority="107" />
+      <Item value="Message" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Device.Location.GeoPositionStatusChangedEventArgs">
+      <Item value="Status" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Device.Location.GeoPositionChangedEventArgs`1">
+      <Item value="Position" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Device.Location.GeoPosition`1">
+      <Item value="Location" priority="80" />
+      <Item value="Timestamp" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTimeOffset">
+      <Item value="DateTime" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Phone.Reactive.Subject`1">
+      <Item value="ObserveOn`1" priority="26" />
+      <Item value="OnNext`0" priority="26" />
+      <Item value="OnCompleted`0" priority="53" />
+      <Item value="OnErrorResumeNext`1" priority="26" />
+      <Item value="OnError`0" priority="49" />
+      <Item value="AsObservable`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Phone.Reactive.ThreadPoolScheduler">
+      <Item value="Schedule`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Debug">
+      <Item value="WriteLine`0" priority="104" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IObserver`1">
+      <Item value="OnNext`0" priority="27" />
+      <Item value="OnError`0" priority="27" />
+      <Item value="OnCompleted`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:METRO.Helpers.GeoWrapper">
+      <Item value="Location`0" priority="26" />
+      <Item value="Adresse`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrWhiteSpace`0" priority="26" />
+      <Item value="Empty" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Controls.Canvas">
+      <Item value="ZIndexProperty" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:METRO.Controls.WatermarkAutoCompleteBox">
+      <Item value="TextBox" priority="22" />
+      <Item value="ItemsSource" priority="53" />
+      <Item value="SelectedItem" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="SelectAll`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@METRO.ViewModel.ViewModelLocator">
+      <Item value="MainStatic" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:METRO.Controls.OptimizedMapItemsControl">
+      <Item value="ActualHeight" priority="54" />
+      <Item value="ActualWidth" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:METRO.GeocodeService.GeocodeServiceClient">
+      <Item value="GeocodeAsync`0" priority="26" />
+      <Item value="CloseAsync`0" priority="26" />
+      <Item value="Abort`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:METRO.GeocodeService.GeocodeCompletedEventArgs">
+      <Item value="Error" priority="26" />
+      <Item value="Cancelled" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBox">
+      <Item value="Show`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Where`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Key" priority="26" />
+      <Item value="Value" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Resources.UltimateResourceFallbackLocation">
+      <Item value="Satellite" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -1,0 +1,167 @@
+c:\users\magni9265\documents\visual studio 2010\Projects\METRO\METRO\obj\Debug\ResolveAssemblyReference.cache
+c:\users\magni9265\documents\visual studio 2010\Projects\METRO\METRO\obj\Debug\METRO.g.resources
+c:\users\magni9265\documents\visual studio 2010\Projects\METRO\METRO\Bin\Debug\ApplicationIcon.png
+c:\users\magni9265\documents\visual studio 2010\Projects\METRO\METRO\Bin\Debug\Background.png
+c:\users\magni9265\documents\visual studio 2010\Projects\METRO\METRO\Bin\Debug\METRO.dll
+c:\users\magni9265\documents\visual studio 2010\Projects\METRO\METRO\Bin\Debug\METRO.pdb
+c:\users\magni9265\documents\visual studio 2010\Projects\METRO\METRO\Bin\Debug\AppManifest.xaml
+c:\users\magni9265\documents\visual studio 2010\Projects\METRO\METRO\Bin\Debug\METRO.xap
+c:\users\magni9265\documents\visual studio 2010\Projects\METRO\METRO\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\magni9265\documents\visual studio 2010\Projects\METRO\METRO\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+c:\users\magni9265\documents\visual studio 2010\Projects\METRO\METRO\Bin\Debug\Microsoft.Phone.Controls.xml
+c:\users\magni9265\documents\visual studio 2010\Projects\METRO\METRO\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+c:\users\magni9265\documents\visual studio 2010\Projects\METRO\METRO\obj\Debug\METRO.dll
+c:\users\magni9265\documents\visual studio 2010\Projects\METRO\METRO\obj\Debug\METRO.pdb
+c:\users\magni9265\documents\visual studio 2010\Projects\METRO\METRO\obj\Debug\XapCacheFile.xml
+C:\Users\MAGNI9265\documents\visual studio 2010\Projects\METRO\METRO\Bin\Debug\GalaSoft.MvvmLight.Extras.WP71.dll
+C:\Users\MAGNI9265\documents\visual studio 2010\Projects\METRO\METRO\Bin\Debug\GalaSoft.MvvmLight.WP71.dll
+C:\Users\MAGNI9265\documents\visual studio 2010\Projects\METRO\METRO\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\MAGNI9265\documents\visual studio 2010\Projects\METRO\METRO\Bin\Debug\GalaSoft.MvvmLight.Extras.WP71.pdb
+C:\Users\MAGNI9265\documents\visual studio 2010\Projects\METRO\METRO\Bin\Debug\GalaSoft.MvvmLight.Extras.WP71.xml
+C:\Users\MAGNI9265\documents\visual studio 2010\Projects\METRO\METRO\Bin\Debug\GalaSoft.MvvmLight.WP71.pdb
+C:\Users\MAGNI9265\documents\visual studio 2010\Projects\METRO\METRO\Bin\Debug\GalaSoft.MvvmLight.WP71.xml
+C:\Users\MAGNI9265\documents\visual studio 2010\Projects\METRO\METRO\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\MAGNI9265\Documents\Visual Studio 2010\Projects\METRO\METRO\Bin\Debug\icons\appbar.feature.search.rest.png
+C:\Users\MAGNI9265\Documents\Visual Studio 2010\Projects\METRO\METRO\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\MAGNI9265\Documents\Visual Studio 2010\Projects\METRO\METRO\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\MAGNI9265\Documents\Visual Studio 2010\Projects\METRO\METRO\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\MAGNI9265\Documents\Visual Studio 2010\Projects\METRO\METRO\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\MAGNI9265\Documents\Visual Studio 2010\Projects\METRO\METRO\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\MAGNI9265\Documents\Visual Studio 2010\Projects\METRO\METRO\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\MAGNI9265\Documents\Visual Studio 2010\Projects\METRO\METRO\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\MAGNI9265\Documents\Visual Studio 2010\Projects\METRO\METRO\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\MAGNI9265\Documents\Visual Studio 2010\Projects\METRO\METRO\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\MAGNI9265\Documents\Visual Studio 2010\Projects\METRO\METRO\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\MAGNI9265\Documents\Visual Studio 2010\Projects\METRO\METRO\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\MAGNI9265\Documents\Visual Studio 2010\Projects\METRO\METRO\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\MAGNI9265\Documents\Visual Studio 2010\Projects\METRO\METRO\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\MAGNI9265\Documents\Visual Studio 2010\Projects\METRO\METRO\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\MAGNI9265\Documents\Visual Studio 2010\Projects\METRO\METRO\Bin\Debug\Assets\Images\Location.png
+C:\Users\MAGNI9265\Documents\Visual Studio 2010\Projects\METRO\METRO\obj\Debug\App.g.i.cs
+C:\Users\MAGNI9265\Documents\Visual Studio 2010\Projects\METRO\METRO\obj\Debug\MainPage.g.i.cs
+C:\Users\MAGNI9265\Documents\Visual Studio 2010\Projects\METRO\METRO\obj\Debug\View\TestPage.g.i.cs
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M1.png
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M10.png
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M11.png
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M12.png
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M13.png
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M14.png
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M2.png
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M3.png
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M3B.png
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M4.png
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M5.png
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M6.png
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M7.png
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M7B.png
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M8.png
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M9.png
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\icons\itinerary.png
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\icons\maplayer.png
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\ApplicationIcon.png
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\Location.png
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\Background.png
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\icons\appbar.feature.search.rest.png
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\icons\appbar.next.rest.png
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\icons\appbar.refresh.rest.png
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\METRO.dll
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\METRO.pdb
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\AppManifest.xaml
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\METRO.xap
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\GalaSoft.MvvmLight.Extras.WP71.dll
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\GalaSoft.MvvmLight.WP71.dll
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\Microsoft.Expression.Interactions.dll
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\System.Windows.Interactivity.dll
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\GalaSoft.MvvmLight.Extras.WP71.pdb
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\GalaSoft.MvvmLight.Extras.WP71.xml
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\GalaSoft.MvvmLight.WP71.pdb
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\GalaSoft.MvvmLight.WP71.xml
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\Microsoft.Expression.Interactions.xml
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\System.Windows.Interactivity.xml
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\documents\Projets\METRO\METRO\METRO\METRO\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\documents\Projets\METRO\METRO\METRO\METRO\obj\Debug\ResolveAssemblyReference.cache
+E:\documents\Projets\METRO\METRO\METRO\METRO\obj\Debug\METRO.g.resources
+E:\documents\Projets\METRO\METRO\METRO\METRO\obj\Debug\METRO.dll
+E:\documents\Projets\METRO\METRO\METRO\METRO\obj\Debug\METRO.pdb
+E:\documents\Projets\METRO\METRO\METRO\METRO\obj\Debug\XapCacheFile.xml
+E:\documents\Projets\METRO\METRO\METRO\METRO\obj\Debug\App.g.i.cs
+E:\documents\Projets\METRO\METRO\METRO\METRO\obj\Debug\MainPage.g.i.cs
+E:\documents\Projets\METRO\METRO\METRO\METRO\obj\Debug\View\Credits.g.i.cs
+E:\documents\Projets\METRO\METRO\METRO\METRO\obj\Debug\View\TestPage.g.i.cs
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M1.png
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M10.png
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M11.png
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M12.png
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M13.png
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M14.png
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M2.png
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M3.png
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M3B.png
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M4.png
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M5.png
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M6.png
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M7.png
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M7B.png
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M8.png
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\M9.png
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\icons\itinerary.png
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\icons\maplayer.png
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\ApplicationIcon.png
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\Assets\Images\Location.png
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\Background.png
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\icons\appbar.feature.search.rest.png
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\icons\appbar.next.rest.png
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\icons\appbar.refresh.rest.png
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\METRO.dll
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\METRO.pdb
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\AppManifest.xaml
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\METRO.xap
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\GalaSoft.MvvmLight.Extras.WP71.dll
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\GalaSoft.MvvmLight.WP71.dll
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\GalaSoft.MvvmLight.Extras.WP71.pdb
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\GalaSoft.MvvmLight.Extras.WP71.xml
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\GalaSoft.MvvmLight.WP71.pdb
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\GalaSoft.MvvmLight.WP71.xml
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\obj\Debug\METRO.csprojResolveAssemblyReference.cache
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\obj\Debug\App.g.cs
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\obj\Debug\MainPage.g.cs
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\obj\Debug\View\Credits.g.cs
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\obj\Debug\View\TestPage.g.cs
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\obj\Debug\METRO.g.resources
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\obj\Debug\METRO.dll
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\obj\Debug\METRO.pdb
+C:\Users\Kobs\Documents\projets\METRO\METRO\METRO\METRO\obj\Debug\XapCacheFile.xml
